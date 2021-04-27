@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+th,tr,td{
+    border:thistle;
+    border-width: 2px;
+    border-style:ridge;
+    border-collapse:separate;
+}
+
+table{
+    
+    
+    display: flex;
+    align-items: center;
+    border-collapse: collapse;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+
+}
+th{
+    color: navy;
+    background-color: palegoldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+td{
+    color: teal;
+    margin: 5px;
+    padding: 5px;
+    background-color: wheat;
+
+}
+#nil23{
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: darkgoldenrod;
+    text-shadow:2px darkorange;
+}

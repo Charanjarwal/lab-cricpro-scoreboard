@@ -33,8 +33,8 @@ a {
 	flex-direction: row;
 	align-content: flex-end;
 	position: relative;
-	margin-top: 40px;
-	margin-left: 80px;
+	margin-top: 41px;
+	margin-left: 81px;
 	font-size: 18px;
 	font-family: Nunito Sans;
 	font-style: normal;
@@ -46,7 +46,7 @@ a {
 
 h1 {
 	color: black;
-	text-shadow: 1px 5px gray;
+	text-shadow: 0.5px 5px gray;
 
 	font-weight: bolder;
 	font-size: 50px;
@@ -92,8 +92,8 @@ tr {
 
 #firstimg {
 	justify-items: right;
-	height: 80px;
-	width: 160px;
+	height: 81px;
+	width: 161px;
 	display: flex;
 	margin-top: 50px;
 	margin-right: 170px;
